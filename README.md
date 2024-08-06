@@ -10,3 +10,5 @@ The grader is available at [this link](https://grader.nattee.net/)
 
 - [Data Structure by nattee115](https://youtube.com/playlist?list=PLW3DcQsnGanPGhY2Y0A9hc45KnfS55RZI&si=EmXGQqCJab-tivur)
 - [A&DS English Course by Pavel Mavrin](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=sHKmgHBznkEPeuJW)
+
+**Note**: Please do not copy the code; it is better to understand the concept and write the code yourself.
