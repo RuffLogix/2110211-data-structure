@@ -20,7 +20,7 @@ int main() {
     int n;
     cin >> n;
 
-    cout << solve(n+1, false, false);
+    cout << solve(n+1, false, false) << '\n';
 
     return 0;
 }
