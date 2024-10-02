@@ -1,4 +1,4 @@
-# 2110211 Introduction too Data Structure
+# 2110211 Introduction to Data Structure
 
 The repository contains the code for the course 2110211 Introduction to Data Structure at Chulalongkorn University.
 
